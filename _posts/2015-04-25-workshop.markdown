@@ -25,7 +25,7 @@ _WHat is that_!
 
 ![preview2.jpg]({{site.baseurl}}/_posts/preview2.jpg)
 
-
+![]({{site.baseurl}}/img/preview1.jpg)
 ## Hahahaha
 ### Hey yay
 
