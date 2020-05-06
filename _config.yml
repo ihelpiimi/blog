@@ -4,6 +4,6 @@ description: i-Help is a student-run initiative of IPM students of IIM Indore, i
 keywords: Blogging, Fun, education, teaching, learning, NGO, help,educate, enable, empower
 author: i-Help
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://ihelpiimi.org" # the base hostname & protocol for your site
 
 theme: jekyll-theme-cayman
