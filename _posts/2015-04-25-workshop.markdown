@@ -18,6 +18,8 @@ Why is it so difficult?
 
 
 _WHat is that_!
+![preview2.jpg]({{site.baseurl}}/img/preview2.jpg)
+
 ![preview3.jpg]({{site.baseurl}}/_posts/preview3.jpg)
 
 ![preview2.jpg]({{site.baseurl}}/_posts/preview2.jpg)
