@@ -1,6 +1,6 @@
 ---
 title: STAY TUNED!
-subtitle: Only lights from space
+subtitle: Updates coming soon!
 author: Wferr
 avatar: img/authors/wferr.png
 image: img/preview3.jpg
