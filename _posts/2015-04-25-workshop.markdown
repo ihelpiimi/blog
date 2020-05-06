@@ -1,6 +1,6 @@
 ---
 title: i-Help Blog
-subtitle: It's always a bit messy
+subtitle: 'Where you speak, we read'
 author: i-Help
 avatar: img/authors/wferr.png
 image: img/preview1.jpg
