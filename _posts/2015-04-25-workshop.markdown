@@ -11,8 +11,7 @@ published: true
 
 ### Dolor sit amet?
 
-Why is it so difficult?
-
+# Why is it so difficult?
 
 
 **This is i-Help!**
@@ -25,7 +24,8 @@ _WHat is that_!
 
 ![preview2.jpg]({{site.baseurl}}/_posts/preview2.jpg)
 
-![]({{site.baseurl}}/img/preview1.jpg)
+![]({{site.baseurl}}/img/preview1.jpg)![preview1.jpg]({{site.baseurl}}/img/preview1.jpg)
+
 ## Hahahaha
 ### Hey yay
 
