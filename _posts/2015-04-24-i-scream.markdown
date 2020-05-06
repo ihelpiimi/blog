@@ -1,6 +1,6 @@
 ---
 title: Launching Soon
-subtitle: But do you scream?
+subtitle: Really very soon
 author: Wferr
 avatar: img/authors/wferr.png
 image: img/preview2.jpg
