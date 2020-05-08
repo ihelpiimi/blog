@@ -4,8 +4,7 @@ subtitle: 'Where you speak, we read'
 author: i-Help
 avatar: img/authors/wferr.png
 image: img/preview1.jpg
-date:
-  '2019-04-18 11:30:00 +0530': null
+date: '2019-04-18 11:30:00 +0530'
 published: true
 ---
 # We are starting really very soon!
