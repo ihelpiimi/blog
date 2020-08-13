@@ -2,8 +2,8 @@
 title: The Team You Need
 subtitle: null
 author: Swarnima Anand
-avatar: img/authors/wferr.png
-image: null
+avatar: null
+image: img/preview1.jpeg
 date: '2020-08-13'
 published: true
 ---
