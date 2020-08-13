@@ -1,9 +1,9 @@
 ---
 title: The Team You Need
-subtitle: World is less intimidating
+subtitle: null
 author: Swarnima Anand
 avatar: img/authors/wferr.png
-image: img/preview1.jpeg
+image: null
 date: '2020-08-13'
 published: true
 ---
