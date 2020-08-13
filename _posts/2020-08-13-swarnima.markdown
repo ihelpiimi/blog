@@ -8,7 +8,7 @@ image: img/Preview1.JPG
 date: '2020-08-13'
 published: true
 twitter: www.google.com
-insta: www.google.com
+insta: 'https://www.google.com'
 ---
 > 
 
