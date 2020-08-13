@@ -2,7 +2,7 @@
 title: The Team You Need
 subtitle: null
 author:
-  - Swarnima Anand
+  - 'Swarnima Anand [Instagram](https://www.google.com)'
 avatar: img/authors/rsz_1img_20200813_174619.jpg
 image: img/Preview1.JPG
 date: '2020-08-13'
