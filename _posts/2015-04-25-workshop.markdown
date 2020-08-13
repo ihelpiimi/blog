@@ -3,7 +3,7 @@ title: The Team You Need
 subtitle: 'Where you speak, we read'
 author: Swarnima Anand
 avatar: img/authors/wferr.png
-image: img/preview1.jpg
+image: img/preview1.jpeg
 date: '2020-08-13'
 published: true
 ---
