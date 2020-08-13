@@ -1,6 +1,6 @@
 ---
 title: The Team You Need
-subtitle: 'Where you speak, we read'
+subtitle: World is less intimidating
 author: Swarnima Anand
 avatar: img/authors/wferr.png
 image: img/preview1.jpeg
