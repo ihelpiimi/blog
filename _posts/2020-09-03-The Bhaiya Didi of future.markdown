@@ -5,6 +5,7 @@ image: img/Anonymus.jpg
 date: '2020-09-03'
 twitter: www.google.com
 insta: null
+avatar: img/authors/wferr.png
 ---
 In my past two years of association with i-Help with several visits completed, every eye speaks a story that inspires and motivates me to do something better. 
 
