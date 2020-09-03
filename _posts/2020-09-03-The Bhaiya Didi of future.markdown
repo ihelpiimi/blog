@@ -1,7 +1,7 @@
 ---
 published: false
 author: Anonymous
-image: img/Nivedta_Blog.jpg
+image: img/Anonymus.jpg
 date: '2020-09-03'
 twitter: www.google.com
 insta: null
