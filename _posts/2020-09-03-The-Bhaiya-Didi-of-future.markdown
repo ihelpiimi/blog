@@ -4,7 +4,7 @@ author: Divyansh
 image: img/Anonymus.jpg
 date: '2020-09-03'
 twitter: www.google.com
-insta: null
+insta: 'https://instagram.com/nivarjun?igshid=1cn3uuxoqc'
 avatar: img/authors/divyansh.jpg
 ---
 In my past two years of association with i-Help with several visits completed, every eye speaks a story that inspires and motivates me to do something better. 
