@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Divyansh
 image: img/Anonymus.jpg
 date: '2020-09-03'
