@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: BK Vignesh
 avatar: img/authors/BKV.png
 image: img/BKVignesh.jpg
