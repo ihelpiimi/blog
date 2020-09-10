@@ -3,7 +3,7 @@ published: true
 author:
   - BK Vignesh
 avatar: img/authors/BKV.png
-image: img/BKV.JPG
+image: img/BKV.jpg
 date: '2020-08-13'
 twitter: www.google.com
 insta: 'https://www.linkedin.com/in/bk-vignesh-6752361b4/'
