@@ -4,7 +4,7 @@ author: BK Vignesh
 avatar: img/authors/BKV.png
 image: img/BKVignesh.jpg
 date: '2020-09-10'
-twitter: www.google.com
+twitter: null
 insta: 'https://www.linkedin.com/in/bk-vignesh-6752361b4/'
 ---
 I was playing Badminton well into the night and went to bed around 3 30 in the morning. I had forgotten about my i-Help visit the next day and slept. It was then at 9 in the morning my roommate reminded me of the visit as he was coming as well. I got ready and rushed to the Cricket Stadium with my roommate.
