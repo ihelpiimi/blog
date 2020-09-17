@@ -9,7 +9,7 @@ insta: 'https://www.linkedin.com/in/darpan-choudhary'
 
 
 > Education is the most powerful weapon which you can use to change the world
-~ Nelson Mandela
+                                                             ~ Nelson Mandela
 
 It has been almost two years when I first signed up for i-Help after coming to IIM Indore. My mother was the main reason I decided to join this organization. She is a government schoolteacher and has been teaching since 1995. As a kid, I used to accompany my mother to her school because she wanted me to understand the hardships that underprivileged children face in terms of quality and availability of education, especially. Seeing all that, I believe, had a powerful impact on my social responsibility as a citizen endowed with privileges. Therefore, i-Help will forever hold a special place in my heart.
 
