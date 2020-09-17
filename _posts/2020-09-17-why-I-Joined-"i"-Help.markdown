@@ -1,7 +1,7 @@
 ---
 published: true
 author: Darpan Choudary
-avatar: img/authors/Darpan.png
+avatar: img/authors/Darpan.jpg
 image: img/Darpan1.jpg
 date: '2020-17-10'
 insta: 'https://www.linkedin.com/in/darpan-choudhary'
