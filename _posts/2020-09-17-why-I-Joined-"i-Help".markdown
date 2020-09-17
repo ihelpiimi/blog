@@ -1,5 +1,6 @@
 ---
 published: true
+title: Why I joined i-Help
 author: Darpan Choudary
 avatar: img/authors/Darpan.jpg
 image: img/Darpan1.jpg
