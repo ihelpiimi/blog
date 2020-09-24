@@ -1,7 +1,7 @@
 ---
-published: false
-author: Anonyumus
-image: img/Dar1.jpg
+published: true
+author: Anonymous
+image: img/Anonymous.jpg
 date: '2020-09-24'
 ---
 	Childhood friendships usually end up following one of two paths. Either the friendship is an enduring one that stands the test of time or the two playmates simply grow apart over the course of adolescence. Friendship to me became more of a chore with every new address once every 2 years. Friendship became seasonal and at the end of every season, I had to sow a seed of friendship at another place with another person. Friendship became unrewarding with every friend I left behind over the years. The beginning and end of each friendship streaked from misguided faith in the phrase “History repeats itself.” I knew all my friendships would end even before they started making me numb towards the nostalgia of childhood memories with my pals. The emotions of friendship occupied a very blurry corner of my heart. They were neither real nor fake. I couldn’t tell which it was. I remember my so-called friends not through shared moments but through class photos. 
