@@ -6,7 +6,7 @@ author:
 avatar: img/authors/AbirBiswas.jpeg
 image: img/AbirBiswasCover.jpeg
 date: '2021-11-06'
-published: false
+published: true
 twitter: www.google.com
 insta: 'https://www.instagram.com/abirwas/'
 ---
