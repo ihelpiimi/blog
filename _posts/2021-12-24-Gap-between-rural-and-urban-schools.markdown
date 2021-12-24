@@ -4,7 +4,7 @@ subtitle: null
 author:
   - Saswat Pattnaik
 avatar: img/authors/SaswatPattnaik.jpeg
-image: img/AbirBiswasCover.jpeg
+image: img/SaswatPattnaikCover.jpeg
 date: '2021-12-24'
 published: true
 twitter: www.google.com
