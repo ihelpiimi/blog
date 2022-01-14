@@ -1,15 +1,15 @@
 ---
 title: How the gap between rural and urban schools can be bridged
-subtitle: null
+date: 2021-12-24 00:00:00 Z
+subtitle: 
 author:
-  - Saswat Pattnaik
+- Saswat Pattnaik
 avatar: img/authors/SaswatPattnaik.jpeg
 image: img/SaswatPattnaikCover.jpg
-date: '2021-12-24'
-published: true
 twitter: www.google.com
-insta: 'https://www.instagram.com/_saswat_pattnaik_/'
+insta: https://www.instagram.com/_saswat_pattnaik_/
 ---
+
 > 
 
 The difference between urban and rural students are not in terms of intellect, but due to their surrounding environment, learning ability, availability of infrastructure, skills, and access to different facilities.

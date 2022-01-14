@@ -1,15 +1,15 @@
 ---
 title: One hour, every Tuesday
-subtitle: null
+date: 2021-11-06 00:00:00 Z
+subtitle: 
 author:
-  - Abir Biswas
+- Abir Biswas
 avatar: img/authors/AbirBiswas.jpeg
 image: img/AbirBiswasCover.jpeg
-date: '2021-11-06'
-published: true
 twitter: www.google.com
-insta: 'https://www.instagram.com/abirwas/'
+insta: https://www.instagram.com/abirwas/
 ---
+
 > 
 
 It is Tuesday. Even after 6 hours of continuous lectures, my day is not yet over. No, I am not talking about my assignments. Instead, I am supposed to teach 3 bright students Mathematics for their National Talent Search Examination preparation.

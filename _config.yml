@@ -1,9 +1,19 @@
-# Site settings
+---
 title: i-Help Blog
-description: i-Help is a student-run initiative of IPM students of IIM Indore, is an organization of dedicated, like-minded and hardworking individuals who believe that education is the greatest weapon against all evils of society 
-keywords: Blogging, Fun, education, teaching, learning, NGO, help,educate, enable, empower
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: i-Help is a student-run initiative of IPM students of IIM Indore, is
+  an organization of dedicated, like-minded and hardworking individuals who believe
+  that education is the greatest weapon against all evils of society
+keywords: Blogging, Fun, education, teaching, learning, NGO, help,educate, enable,
+  empower
 author: i-Help
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "https://ihelpiimi.org" # the base hostname & protocol for your site
-
+baseurl: "/blog"
+url: https://ihelpiimi.org
 theme: jekyll-theme-cayman

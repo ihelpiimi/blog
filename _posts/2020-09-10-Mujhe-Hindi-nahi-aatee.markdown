@@ -1,12 +1,13 @@
 ---
-published: true
+title: Mujhe Hindi Nahi Aatee
+date: 2020-09-10 00:00:00 Z
 author: BK Vignesh
 avatar: img/authors/BKV.png
 image: img/BKVignesh.jpg
-date: '2020-09-10'
-twitter: null
-insta: 'https://www.linkedin.com/in/bk-vignesh-6752361b4/'
+twitter: 
+insta: https://www.linkedin.com/in/bk-vignesh-6752361b4/
 ---
+
 I was playing Badminton well into the night and went to bed around 3 30 in the morning. I had forgotten about my i-Help visit the next day and slept. It was then at 9 in the morning my roommate reminded me of the visit as he was coming as well. I got ready and rushed to the Cricket Stadium with my roommate.
 
 I didn’t want to go for the visit. One major reason was I didn’t know Hindi then, not that I know now too but still I didn’t want to make a fool of myself in front of those little kids. My partner assured me that it would be fine and that he will handle it. I was supposed to take Math and English for Class 4 students. I read the modules that I have to teach on the way to the school and also downloaded Google Translate in case I needed it. We reached there when the students were assembled for their morning prayer. We waiting for a few minutes until they went back to their classes. My partner and I decided that he will be teaching orally and I will be assisting him by writing on the board when he wants me to. 

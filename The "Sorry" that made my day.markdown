@@ -1,12 +1,12 @@
 ---
-published: true
+date: 2020-08-20 00:00:00 Z
 author: Nivedita Arjun
 avatar: img/authors/Nivedita_Profile.jpg
 image: img/Nivedita_Blog.jpg
-date: '2020-08-20'
 twitter: www.google.com
-insta: 'https://instagram.com/nivarjun?igshid=1cn3uuxoqcdt2'
+insta: https://instagram.com/nivarjun?igshid=1cn3uuxoqcdt2
 ---
+
 Perhaps it’s because I’ve always been fond of kids that I have looked forward to all iHelp visits with great anticipation. Well, I have to give up on a few extras’ hours of sleep on a free Thursday, but I can live with that. I’ve made a handful of visits up until now and I’ve thoroughly enjoyed every one of them. Until my last visit, if someone had asked me to pick a favourite, I would have brushed the question away with a diplomatic answer. But my last visit changed my mind.
 My friend and I were allotted an eighth-grade girls’ class. Rumour has it that these girls are the naughtiest of the lot. It only took a few minutes in the class before we realized that it was not a rumour, after all. Don’t get me wrong, they were not the kind who’d set off a firecracker under the teacher’s table. When I say “naughty”, I simply mean they were a little more than we were used to handling. Now, if they were all the same kind of naughty, we might have hoped that one strait-jacket solution would put them all in place at one go. But of course, they wouldn’t want to make things that easy for us. Each of those girls contributed their own flavour to the naughtiness that was sizzling hot in that class. 
 

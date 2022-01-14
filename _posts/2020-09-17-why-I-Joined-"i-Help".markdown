@@ -1,13 +1,11 @@
 ---
-published: true
 title: Why I joined i-Help
+date: 2020-09-17 00:00:00 Z
 author: Darpan Choudary
 avatar: img/authors/Darpan.jpg
 image: img/Darpan1.jpg
-date: '2020-09-17'
-insta: 'https://www.linkedin.com/in/darpan-choudhary'
+insta: https://www.linkedin.com/in/darpan-choudhary
 ---
-
 
 > Education is the most powerful weapon which you can use to change the world
                                                              ~ Nelson Mandela

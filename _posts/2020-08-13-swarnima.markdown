@@ -1,15 +1,15 @@
 ---
 title: The Team You Need
-subtitle: null
+date: 2020-08-13 00:00:00 Z
+subtitle: 
 author:
-  - Swarnima Anand
+- Swarnima Anand
 avatar: img/authors/rsz_1img_20200813_174619.jpg
 image: img/Preview1.JPG
-date: '2020-08-13'
-published: true
 twitter: www.google.com
-insta: 'https://instagram.com/swarnima.anand?igshid=1mfrebva9e776'
+insta: https://instagram.com/swarnima.anand?igshid=1mfrebva9e776
 ---
+
 > 
 
 
