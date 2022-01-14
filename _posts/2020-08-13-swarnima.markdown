@@ -8,6 +8,7 @@ avatar: img/authors/rsz_1img_20200813_174619.jpg
 image: img/Preview1.JPG
 twitter: www.google.com
 insta: https://instagram.com/swarnima.anand?igshid=1mfrebva9e776
+layout: post
 ---
 
 > 
