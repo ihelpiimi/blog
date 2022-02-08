@@ -1,15 +1,15 @@
 ---
 title: The need for audio visual aid in learning
-subtitle: null
+date: 2022-02-08 00:00:00 Z
+subtitle: 
 author:
-  - Divyashish Prakash
+- Divyashish Prakash
 avatar: img/authors/Divyashish.jpeg
 image: img/DivyashishPrakashCover.jpg
-date: '2022-02-08'
-published: true
 twitter: www.google.com
-insta: 'https://www.instagram.com/divyashish_dp/'
+insta: https://www.instagram.com/divyashish_dp/
 ---
+
 > 
 
 Audio visual aid in learning is a form of instruction where comprehension and retention of a particular topic is increased by introducing audio and visual presentation of the material. As this form of learning employs more than one sense therefore the children or even adults are able to learn and retain the information presented to them better. For example, you can remember things that you see for a longer time compared to those that you have only heard and this method of teaching can involve both therefore it is much more effective than our conventional method of teaching. 
