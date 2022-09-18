@@ -1,23 +1,13 @@
 ---
-
 title: i-Help's Online Transition
-
 date: 2022-09-18 00:00:00 Z
-
-subtitle:
-
+subtitle: 
 author:
-
 - Anonymous
-
 avatar: img/authors/wferr.png
-
 image: img/[Blog1\_22-23.png](https://github.com/ihelpiimi/blog/blob/master/img/Blog1_22-23.png)
-
 twitter: www.google.com
-
 insta: https://www.instagram.com/ihelpiimi
-
 ---
 
 \>
