@@ -3,14 +3,16 @@ title: i-Help's Online Transition
 date: 2022-09-18 00:00:00 Z
 subtitle: 
 author:
-- Anonymous
+- Anurag Chaudhari
 avatar: img/authors/wferr.png
 image: img/Blog_1_(22-23).png
 twitter: www.google.com
 insta: https://www.instagram.com/ihelpiimi
 ---
 
-**'A child who does not receive an education is compared to a bird who does not have wings.'**
+**'A child without education is like a bird without wings.'**
+
+~ A Famous Tibetan Proverb
 
 Before volunteering for i-Help, I hadn't given it much thought. I heard about its operations as soon as I entered IIM Indore. Still, I didn't get a grasp of its impact on the environment.
 
