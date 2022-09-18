@@ -10,7 +10,7 @@ twitter: www.google.com
 insta: https://www.instagram.com/ihelpiimi
 ---
 
-\
+
 
 **'A child who does not receive an education is compared to a bird who does not have wings.'**
 
