@@ -10,8 +10,6 @@ twitter: www.google.com
 insta: https://www.instagram.com/ihelpiimi
 ---
 
-
-
 **'A child who does not receive an education is compared to a bird who does not have wings.'**
 
 Before volunteering for i-Help, I hadn't given it much thought. I heard about its operations as soon as I entered IIM Indore. Still, I didn't get a grasp of its impact on the environment.
