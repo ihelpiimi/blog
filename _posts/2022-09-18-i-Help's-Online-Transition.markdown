@@ -5,7 +5,7 @@ subtitle:
 author:
 - Anonymous
 avatar: img/authors/wferr.png
-image: img/Blog_1_22-23.png
+image: img/Blog_1_(22-23).png
 twitter: www.google.com
 insta: https://www.instagram.com/ihelpiimi
 ---
