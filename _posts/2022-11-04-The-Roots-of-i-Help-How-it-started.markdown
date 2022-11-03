@@ -10,8 +10,8 @@ date: 2022-11-04 00:00:00 Z
 subtitle: 
 author:
 - P Kavisha
-avatar: img/authors/wferr.png
-image: img/Kavisha.png
+avatar: img/authors/Kavisha.jpg
+image: img/Blog2_Poster.png
 twitter: www.ihelpiimi.org
 insta: https://www.instagram.com/ihelpiimi
 ---
