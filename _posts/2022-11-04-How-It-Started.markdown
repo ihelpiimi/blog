@@ -10,24 +10,12 @@ twitter: www.google.com
 insta: https://www.instagram.com/ihelpiimi
 ---
 
-**'A child without education is like a bird without wings.'**
+How does something big and successful get created?
 
-~ A Famous Tibetan Proverb
+It is often a result of a small step by someone who dared to dream, think differently, and bring about a change.
 
-Before volunteering for i-Help, I hadn't given it much thought. 
+A visit to the rural areas around Indore to study and understand the problems of the denizens and prepare a project report was the task set for the IPM students that term back in 2012. While everyone collected data to understand the various problems faced by the people, one boy questioned if the students could help resolve the problems of underprivileged children.
 
-I had just volunteered for it because many of my batchmates were doing so. I would have never imagined it to be such a memorable experience.
+And that is how i-Help was born – as a student-run initiative to help improve the mathematical and linguistic ability of the children and help them prepare for scholarship exams. The professors were interested in helping take the idea forward as it served a noble cause. The first step they decided would be to visit the under-privileged-yet-eager children during the weekends and teach them basic arithmetic and verbal ability. And in the subsequent years, it expanded to teaching the kids scholarship exams. Soon, i-Help also had four wings – Academic, Human Resources and Operations, Media and Public Relations, and a Projects Team – to perform various functions effectively and increase the reach of i-Help’s operations.
 
-Regrettably, because of the pandemic caused by COVID-19, the only option available to the volunteers was to take online classes. As a result, the overall teaching experience was negatively impacted. We, the volunteers, had to find different ways to teach in order to ensure that the students were able to comprehend the concepts.
-
-Before the operations began, I was wondering whether the lack of technological infrastructure on the students' part would pose a problem.
-
-The i-Help team helped us resolve this issue by connecting with the students' parents. The team checked if each student's household had at least one smartphone and decent internet connectivity. This was the case with 80% of the households.
-
-The i-Help team came up with the idea of using Zoom or WhatsApp Video calls to teach the students. They suggested the use of a digital on-screen whiteboards as a substitute for classroom blackboards. Whenever the students faced connectivity issues, we would record the lectures. These lectures would then be sent to the students for them to use, once their internet connectivity stabilized.
-
-Despite the 'online nature' of the classes, the student (whom I was in-charge of) did her absolute best to comprehend the concepts taught and turned in her assignments on time. This motivated me to do my level best.
-
-Despite the numerous challenges owing to the transition to the online medium, the i-Help team exerted tremendous effort to ensure that the teaching process remained unhindered. I deeply admire their dedication to this endeavor.
-
-Being a part of i-Help, I felt a sense of accomplishment and pride. Doing something which might potentially make a big difference in someone's life gave me overwhelming joy. A famous Tibetan proverb rightly says, 'A child without education is like a bird without wings'. I am thankful to i-Help for giving me this opportunity and giving these children, their wings.
+Since then, i-Help has come a long way – growing in size, the scale of operations, and vision. But the focus has always been on the dreams we could help fulfill and the smiles we could help bring to the kids’ faces. Cheers to a more significant cause!
