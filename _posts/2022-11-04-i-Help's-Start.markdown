@@ -1,6 +1,22 @@
 ---
-title: 2022 11 04 I Help's Start
-date: 2022-11-04 08:46:58.105000000 Z
+
+title: The Roots Of i-Help: How It Started
+
+date: 2022-11-04 00:00:00 Z
+
+subtitle:
+
+author:
+
+- P Kavisha
+
+avatar: img/authors/Kavisha.jpg
+
+image: img/Blog2\_Poster.png
+
+twitter: www.ihelpiimi.org
+
+insta: https://www.instagram.com/ihelpiimi
 ---
 
 How does something big and successful get created?
