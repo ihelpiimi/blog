@@ -1,6 +1,6 @@
 ---
 title: 2022 11 04 How It Started
-date: 2022-11-03 19:52:08.159000000 Z
+date: 2022-11-03 19:52:08 Z
 ---
 
 How does something big and successful get created?
