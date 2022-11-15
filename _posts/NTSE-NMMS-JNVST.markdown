@@ -1,6 +1,6 @@
 ---
 title: About NTSE, NMMS, and JNVST
-date: 2022-11-09 00:00:00 Z
+date: 2022-11-12 00:00:00 Z
 subtitle: 
 author:
 - Shiva Kumar P
