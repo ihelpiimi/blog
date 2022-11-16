@@ -4,7 +4,7 @@ date: 2022-11-15 00:00:00 Z
 subtitle: 
 author:
 - Ritender S R
-avatar: img/authors/Ritender.jpg
+avatar: img/authors/Ritender.JPG
 image: img/Blog4_Cover.jpg
 twitter: www.ihelpiimi.org
 insta: https://www.instagram.com/ihelpiimi
