@@ -5,7 +5,7 @@ subtitle:
 author:
 - Ritender S R
 avatar: img/authors/Ritender.jpg
-image: img/Blog4_Cover.png
+image: img/Blog4_Cover.jpg
 twitter: www.ihelpiimi.org
 insta: https://www.instagram.com/ihelpiimi
 ---
