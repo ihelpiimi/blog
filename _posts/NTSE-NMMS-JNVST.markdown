@@ -3,7 +3,7 @@ title: About NTSE, NMMS, and JNVST
 date: 2022-11-12 00:00:00 Z
 subtitle: 
 author:
-- Shiva Kumar P
+- Shiva Kumar
 avatar: img/authors/Siva.jpg
 image: img/Blog 3 - iHelp.png
 twitter: www.ihelpiimi.org
