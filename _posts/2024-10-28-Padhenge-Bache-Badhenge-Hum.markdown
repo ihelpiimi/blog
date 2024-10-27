@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Padhenge Bache Badhenge Hum"
+title: Padhenge Bache Badhenge Hum
+date: 2022-09-18 00:00:00 Z
 image: img/BKVignesh.jpg
 author:
 - Rohan Ravi Saraf
+avatar: img/authors/wferr.png
+twitter: www.google.com
+insta: https://www.instagram.com/ihelpiimi
 ---
 
 ## The Ripple Effects of Education on Underprivileged Children
