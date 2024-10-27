@@ -1,10 +1,8 @@
 ---
-layout: post
 title: Tips for Current and Upcoming i-Help Volunteers
 date: 2024-10-28 00:00:00 Z
-image: img/BKVignesh.jpg
-author:
-- Prabhas Shah
+image: img/Blog2_Poster.png
+author: Prabhas Shah
 avatar: img/authors/wferr.png
 insta: https://www.instagram.com/ihelpiimi
 ---
