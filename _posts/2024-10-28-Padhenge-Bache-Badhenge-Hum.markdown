@@ -1,10 +1,8 @@
 ---
-layout: post
 title: Padhenge Bache Badhenge Hum
 date: 2024-10-28 00:00:00 Z
 image: img/BKVignesh.jpg
-author:
-- Rohan Ravi Saraf
+author: Rohan Ravi Saraf
 avatar: img/authors/wferr.png
 insta: https://www.instagram.com/ihelpiimi
 ---
