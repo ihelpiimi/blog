@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hindi Diwas: The language that binds us together
+title: "Hindi Diwas: The language that binds us together"
 date: 2024-10-28 00:00:00 Z
 image: img/BKVignesh.jpg
 author:
