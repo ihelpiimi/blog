@@ -1,5 +1,5 @@
 ---
-title: Skills that Stay: Learnings of an i-Help Volunteer
+title: Skills that Stay Learnings of an i-Help Volunteer
 date: 2024-10-28 00:00:00 Z
 image: img/BKVignesh.jpg
 author: Advit Gupta
