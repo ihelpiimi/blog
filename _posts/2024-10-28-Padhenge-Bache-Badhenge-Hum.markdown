@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Padhenge Bache Badhenge Hum"
-author: "Rohan Ravi Saraf"
+author:
+- Rohan Ravi Saraf
 ---
 
 ## The Ripple Effects of Education on Underprivileged Children
