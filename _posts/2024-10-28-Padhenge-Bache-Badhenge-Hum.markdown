@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Padhenge Bache Badhenge Hum"
+image: img/BKVignesh.jpg
 author:
 - Rohan Ravi Saraf
 ---
