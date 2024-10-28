@@ -1,9 +1,11 @@
 ---
 title: Padhenge Bache Badhenge Hum
-image: img/BKVignesh.jpg
-author: Rohan Ravi Saraf
-avatar: img/authors/wferr.png
-insta: https://www.instagram.com/ihelpiimi
+date: 2020-08-20 00:00:00 Z
+author: Nivedita Arjun
+avatar: img/authors/Nivedita_Profile.jpg
+image: img/Nivedita_Blog.jpg
+twitter: www.google.com
+insta: https://instagram.com/nivarjun?igshid=1cn3uuxoqcdt2
 ---
 
 ## The Ripple Effects of Education on Underprivileged Children
